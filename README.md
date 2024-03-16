@@ -7,7 +7,7 @@
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashidudissanayake&label=Profile%20views&color=0e75b6&style=flat" alt="ashidudissanayake" /> </p>
 
-- 🔭 I’m currently working on **C++**
+- 🔭 I’m currently working on **C++, Java, C and VHDL**
 
 - 🌱 I’m currently learning **Java,C++ as programming languages and Web Development**
 
