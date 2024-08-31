@@ -5,8 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=ashidudissanayake&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="400" height="300"/>
+<div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); max-width: 450px; margin: 0 auto;">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="400" style="border-radius: 10px;" />
 </div>
 
 ---
