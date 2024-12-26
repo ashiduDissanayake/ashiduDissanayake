@@ -60,13 +60,6 @@
 
 ---
 
-## 🎥 Check This Out
-![YouTube Banner](https://github.com/ashidudissanayake/assets/blob/main/banner.png)
-
-🎥 Find tutorials, project demos, and tech explorations on my [YouTube Channel](https://www.youtube.com/channel/UCM1i8WOt4PjN9C-7l2okveQ).
-
----
-
 ## 🌐 Find Me Online  
 <div align="center">
   <a href="https://linkedin.com/in/ashidu-dissanayake"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
